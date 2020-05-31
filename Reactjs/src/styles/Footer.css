@@ -1,0 +1,8 @@
+.footer {
+    width: 100%;
+    background-color: lightyellow;
+    height: 30px;
+    bottom: 0px;
+    float: bottom;
+    position: fixed;
+}
